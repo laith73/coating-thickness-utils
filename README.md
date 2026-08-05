@@ -7,7 +7,7 @@ This repo contains MATLAB functions for designing dielectric applicators and est
 Open MATLAB and run the following commands in the command window (note that this requires git to be installed on your system):
 ```matlab
 cd(userpath());
-gitclone("https://github.com/mrdvorsky/cnde-matlab-tools.git");
+gitclone("https://github.com/laith73/coating-thickness-utils.git");
 cd(fullfile("cnde-matlab-tools", "install"));
 cndeMatlabTools_install();
 ```
