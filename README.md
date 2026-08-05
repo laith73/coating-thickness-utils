@@ -9,7 +9,7 @@ Open MATLAB and run the following commands in the command window (note that this
 cd(userpath());
 gitclone("https://github.com/laith73/coating-thickness-utils.git");
 cd(fullfile("coating-thickness-utils", "install"));
-cndeMatlabTools_install();
+coatingThicknessUtils_install();
 ```
 
 ## Creator
