@@ -4,4 +4,4 @@ This repo contains MATLAB functions for designing dielectric applicators and est
 
 ## Creator
 
-- **Laith Al Sairafi**, Iowa State University, Email: laith73@iastate.edu
+- **Laith Al Sairafi** - laith73@iastate.edu
